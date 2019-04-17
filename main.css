@@ -89,6 +89,14 @@
     box-shadow: 1em;
 }
 
+.card-body a {
+    font-weight: bold;
+}
+
+.card-title{
+    font-size: 1.6em;
+}
+
 #bottom-jumbotron {
     margin-top: 3em;
     margin-left: 20em;
@@ -105,6 +113,34 @@
     width: 100%;
     background-color: lightslategray;
 }
+
+.footer a {
+    text-decoration: none;
+}
+
+.footer img {
+    width: 5.3em;
+    height: 6em;
+    border-radius: 5em;
+    margin-left: 18em;
+    margin-top: 4em;
+}
+
+.bottom-nav {
+    margin-left: 26.3em;
+    
+}
+.bottom-nav a {
+    text-decoration: none;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 3.9em;
+    font-size: 1.5em;
+    color: black;
+
+}
+
+
 
 
 
